@@ -1,5 +1,5 @@
 /* global $ */
-var url_base = /* TODO: Replace with EC2 instance URL */;
+var url_base = "https://ec2-34-210-6-42.us-west-2.compute.amazonaws.com";
 
 class Main {
     constructor() {
